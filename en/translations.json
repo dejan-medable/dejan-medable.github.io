@@ -1,11 +1,9 @@
+[{
+	"key": "login.username",
+	"value": "Remote username"
+},
 {
-	"data": [{
-			"key": "login.username",
-			"value": "Remote username"
-		},
-		{
-			"key": "login.password",
-			"value": "Remote password"
-		}
-	]
+	"key": "login.password",
+	"value": "Remote password"
 }
+]
